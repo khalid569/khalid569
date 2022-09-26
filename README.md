@@ -1,4 +1,4 @@
-[![GitHub Banner - Khalid Khan](https://github.com/khalid569/khalid569/blob/main/Screenshot%202022-09-22%20at%2011.49.10%20PM.png)](https://twitter.com/intent/follow?screen_name=khalidk569)
+[![GitHub Banner - Khalid Khan](https://github.com/khalid569/khalid569/blob/main/Screenshot%202022-09-27%20at%2012.38.05%20AM.png)](https://twitter.com/intent/follow?screen_name=khalidk569)
 
 <!--
 **khalid569/khalid569** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
