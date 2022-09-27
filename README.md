@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Current Stats
+
+|   ![Khalid's's github activity graph](https://activity-graph.herokuapp.com/graph?username=khalid569&theme=rogue) |
+| :---: |
+
+| ![Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=khalid569&show_icons=true&theme=city_lights) | ![Khalid's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khalid569&theme=city-lights) |
+| :---: | :---: |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khalid569&theme=city_lights) |
+| :---: |
